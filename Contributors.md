@@ -72,8 +72,8 @@ Sam Barns
 - [Shane Ludwig] (https://github.com/FoopyPoopy)
 - [Masaki Nishi] (https://github.com/MasakiNishi)
 - [Vedashree D] (https://github.com/VedashreeD)
-- [Alexander Maina](https://github.com/Alekiie)
 - [Anna M]
+- [Alexander Maina](https://github.com/Alekiie)
   [Ein Cagle] (https://github.com/eincagle)
 - [Aniket Kanere](https://github.com/anikxt)
 - [JubaDev](https://github.com/JubaDeveloper)
